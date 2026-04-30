@@ -23,6 +23,9 @@ English | [简体中文](./README.zh-CN.md)
   - [Multimodal](#multimodal)
   - [MLOps & Deployment](#mlops--deployment)
   - [Evaluation & Observability](#evaluation--observability)
+  - [Prompt Engineering & System Prompts](#prompt-engineering--system-prompts)
+  - [Learning Resources & Skills](#learning-resources--skills)
+  - [AI Applications & Productivity Tools](#ai-applications--productivity-tools)
 - [Recently Added](#recently-added)
 - [Contribution Guide](#contribution-guide)
 - [License](#license)
@@ -122,12 +125,52 @@ Projects in this list should satisfy most of the following:
 | [Ragas](https://github.com/explodinggradients/ragas) | Evaluation framework for RAG and LLM applications. | 13,724 | Apache-2.0 | LLM/RAG evaluation |
 | [Langfuse](https://github.com/langfuse/langfuse) | Open-source LLM engineering platform for traces and observability. | 26,366 | MIT | Prompt/trace monitoring |
 
+### Prompt Engineering & System Prompts
+
+| Project | Description | Stars | License | Notes |
+| --- | --- | ---: | --- | --- |
+| [system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) | Collection of leaked/public system prompts from AI products. | - | - | Prompt analysis/reference |
+| [LangGPT](https://github.com/langgptai/LangGPT) | Structured prompt engineering framework and prompt templates. | - | - | Prompt methodology |
+
+### Learning Resources & Skills
+
+| Project | Description | Stars | License | Notes |
+| --- | --- | ---: | --- | --- |
+| [dive-into-llms](https://github.com/Lordog/dive-into-llms) | Learning materials for understanding and building with LLMs. | - | - | Tutorial/resource |
+| [andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | Skill-style resources inspired by Andrej Karpathy workflows. | - | - | Learning/skills |
+| [last30days-skill](https://github.com/mvanhorn/last30days-skill) | Skill repository for productivity and AI-assisted workflows. | - | - | Skill pack |
+
+### AI Applications & Productivity Tools
+
+| Project | Description | Stars | License | Notes |
+| --- | --- | ---: | --- | --- |
+| [NarratoAI](https://github.com/linyqh/NarratoAI) | AI-powered content creation and narration workflow project. | - | - | Content generation |
+| [Pixelle-Video](https://github.com/AIDC-AI/Pixelle-Video) | AI video generation project and related tooling. | - | - | Video creation |
+| [worldmonitor](https://github.com/koala73/worldmonitor) | Monitoring/insight project for global trends and signals. | - | - | Trend monitoring |
+| [Archon](https://github.com/coleam00/Archon) | AI-centric project focused on orchestration/automation workflows. | - | - | Agent/workflow |
+| [markitdown](https://github.com/microsoft/markitdown) | Convert files/content into Markdown for LLM processing pipelines. | - | MIT | Data preprocessing |
+| [omi](https://github.com/BasedHardware/omi) | Open AI-native wearable ecosystem and companion stack. | - | - | Hardware + AI |
+| [GenericAgent](https://github.com/lsdefine/GenericAgent) | Generic AI agent implementation for reusable task automation. | - | - | Agent framework |
+| [TrendRadar](https://github.com/sansan0/TrendRadar) | AI trend discovery and signal tracking project. | - | - | Trend analysis |
+| [RAG-Anything](https://github.com/HKUDS/RAG-Anything) | RAG framework targeting broad document/data understanding. | - | - | RAG extension |
+| [PandaWiki](https://github.com/chaitin/PandaWiki) | AI-assisted wiki/knowledge base construction project. | - | - | Knowledge management |
+| [Clawith](https://github.com/dataelement/Clawith) | AI application project (tooling/productivity-oriented). | - | - | General AI app |
+| [next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io) | Next.js + AI diagram generation/editing workflow inspired by draw.io. | - | - | AI diagrams |
+
 ## Recently Added
 
 Track your latest additions here (suggestion: keep only last 10-20 entries):
 
-- `YYYY-MM-DD` - Added **Project Name** in `Category`.
-- `YYYY-MM-DD` - Added **Project Name** in `Category`.
+- `2026-04-30` - Added **system_prompts_leaks** in `Prompt Engineering & System Prompts`.
+- `2026-04-30` - Added **LangGPT** in `Prompt Engineering & System Prompts`.
+- `2026-04-30` - Added **NarratoAI** in `AI Applications & Productivity Tools`.
+- `2026-04-30` - Added **Pixelle-Video** in `AI Applications & Productivity Tools`.
+- `2026-04-30` - Added **worldmonitor** in `AI Applications & Productivity Tools`.
+- `2026-04-30` - Added **Archon** in `AI Applications & Productivity Tools`.
+- `2026-04-30` - Added **markitdown** in `AI Applications & Productivity Tools`.
+- `2026-04-30` - Added **RAG-Anything** in `AI Applications & Productivity Tools`.
+- `2026-04-30` - Added **PandaWiki** in `AI Applications & Productivity Tools`.
+- `2026-04-30` - Added **next-ai-draw-io** in `AI Applications & Productivity Tools`.
 
 ## Contribution Guide
 
@@ -150,3 +193,4 @@ Suggested PR title format:
 ## License
 
 This repository is licensed under the [MIT License](./LICENSE).
+
